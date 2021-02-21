@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Game ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fseptianleonardo.github.io%2FSimon-Game%2F)
 
 Simon is an electronic game of memory skills invented by Ralph H. Baer and Howard J. Morrison, who work for toy design company Marvin Glass and Associates, with software programming by Lenny Cope. This version of game created with HTML, CSS, Javascript, & jQuery and also implementing responsive web design and DOM manipulation.
 
