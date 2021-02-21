@@ -4,7 +4,7 @@ Simon is an electronic game of memory skills invented by Ralph H. Baer and Howar
 
 ## Preview
 
-![preview-img](images/preview1.PNG)
+![preview-img](images/Preview1.PNG)
 
 ## Installation
 
